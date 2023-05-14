@@ -1,9 +1,9 @@
 {
-  "name": "Bitcoin-Earth-Connect",
+  "name": "bitcoin-dapp-template",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "author": "Sukhveer Sanghera"
+  "author": "Earth Guardian",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
