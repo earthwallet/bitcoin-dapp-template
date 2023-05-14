@@ -1,4 +1,4 @@
-# Earth Wallet Connect - Bitcoin DApp Sample (Vite React App)
+# Earth Wallet Connect - Bitcoin DApp Template
 
 This repository contains a simple Vite React app which demonstrates how to build Bitcoin DApps using Earth Wallet Connect.
 
