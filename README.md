@@ -60,7 +60,7 @@ For more details on how to use Earth Wallet Connect, check out the [official doc
 
 ## Support
 
-If you need help or have any questions, join our community on [Twitter](https://twitter.com/earthwallet) or [Telegram](https://t.me/eartheans).
+If you need help or have any questions, join our community on [Twitter](https://twitter.com/earthwallet) or [Telegram](https://t.me/earthwallet).
 
 ## Note
 
