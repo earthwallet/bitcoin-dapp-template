@@ -20,7 +20,7 @@ Earth Wallet Connect is a self-custody wallet designed for seamless integration 
 1. Clone the repository:
 
 ```
-git clone https://github.com/earthwallet/bitcoin-dapp-template.git
+git clone https://github.com/earthstaking/bitcoin-dapp-template.git
 ```
 
 2. Install dependencies:
